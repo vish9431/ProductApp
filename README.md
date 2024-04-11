@@ -14,3 +14,6 @@ ProductsApp is an Android application that allows users to view a list of produc
 - **Retrofit:** Used to handle API calls and data retrieval in a robust and efficient manner.
 - **RecyclerView:** Utilized to display dynamic lists of products with varying view types.
 - **LiveData and ViewModel:** Implements Android Jetpack's LiveData and ViewModel components for data observation and lifecycle management.
+
+#### Demo Video:
+ ** https://drive.google.com/file/d/12UlUHhUVptAAbEJOcpYBYz-V4f6U7gwh/view?usp=sharing **
